@@ -20,4 +20,6 @@ class Stack
     @stack.length
   end
 
+
+
 end
